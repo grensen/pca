@@ -64,7 +64,7 @@ I was curious to see how the 2 features perform as a graph, I compared it with t
 
 I first used google to search for a matching work that also displays the data as a graph, with this control it at least feels correct what can be seen here.
 
-To run the WPF demo follow [this guide](https://raw.githubusercontent.com/grensen/custom_connect/main/figures/install.gif) and after you are done simply copy [the Data folder with the Iris dataset](https://github.com/grensen/pca/tree/main/Data) into the into your WPF code folder. 
+To run take the [code](https://github.com/grensen/pca/blob/main/paco_pca_graph_wpf.cs) and follow [this WPF guide](https://raw.githubusercontent.com/grensen/custom_connect/main/figures/install.gif) and after you are done simply copy [the Data folder with the Iris dataset](https://github.com/grensen/pca/tree/main/Data) into the into your WPF code folder. 
 
 The code was put together really quick and dirty by me and needs to be refactored further. But for a simple demo to get a little more insight into the data, I think it's ok.
 
