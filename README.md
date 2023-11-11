@@ -1,6 +1,6 @@
 # Principal Component Analysis (PCA) from Scratch Using C#
 
-I'm thrilled to share a [PCA implementation created from scratch byJames McCaffrey](https://jamesmccaffrey.wordpress.com/2023/11/07/principal-component-analysis-pca-from-scratch-using-csharp/). PCA, or Principal Component Analysis, simplifies data by reducing its complexity. The algorithm identifies and tries to retain the most important patterns or features in a dataset while discarding less relevant information, making the data more manageable without losing its essential characteristics.
+I'm thrilled to share a [PCA implementation created from scratch by James McCaffrey](https://jamesmccaffrey.wordpress.com/2023/11/07/principal-component-analysis-pca-from-scratch-using-csharp/). PCA, or Principal Component Analysis, simplifies data by reducing its complexity. The algorithm identifies and tries to retain the most important patterns or features in a dataset while discarding less relevant information, making the data more manageable without losing its essential characteristics.
 
 This PCA implementation is based on the same algorithm used by the scikit-learn Python library. Creating a PCA implementation from scratch might be intimidating due to code complexity, but thanks to James McCaffrey, the task has been accomplished. 
 
@@ -26,7 +26,7 @@ The demo makes use of the Iris dataset, which originally contains 4 features (se
 
 To be honest, I know how to use PCA, but I'm not entirely confident in building it from scratch. I can follow the code, which I've done, but PCA can be extremely challenging to grok. I highly recommend checking out [James McCaffrey's blog post on PCA](https://jamesmccaffrey.wordpress.com/2023/11/07/principal-component-analysis-pca-from-scratch-using-csharp/) for a more in-depth understanding. Keep in mind that there are complex topics to explore, such as eigenvalues. However, you'll find comprehensive explanations on how each ingredient of the algorithm works in his blog.
 
-To try out the demo, start a new Visual Studio verion with a console application. Then copy the [code](https://github.com/grensen/pca/blob/main/principal_component_analysis.cs), open the file explorer and copy the [Data folder with the Iris dataset](https://github.com/grensen/pca/tree/main/Data) into your code folder.
+To try out the demo, start a new Visual Studio version with a console application. Then copy the [code](https://github.com/grensen/pca/blob/main/principal_component_analysis.cs), open the file explorer and copy the [Data folder with the Iris dataset](https://github.com/grensen/pca/tree/main/Data) into your code folder.
 
 But, even now, we're left with just numbers, and I find it challenging to grasp. So, I've been curious about what the data will visually look like.
 Let's start with the original Iris dataset displayed as parallel coordinates.
