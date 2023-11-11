@@ -42,10 +42,10 @@ Let's start with the original Iris dataset displayed as parallel coordinates.
     <img src="https://github.com/grensen/pca/blob/main/figures/paco_iris_pca_dim_2.png?raw=true" >
 </p>
 
-## Parallel Coordinates with PCA and 2 Features
+## Parallel Coordinates with PCA and 3 Features
 
 <p align="center">
-    <img src="https://github.com/grensen/pca/blob/main/figures/paco_iris_pca_dim_2.png?raw=true" >
+    <img src="https://github.com/grensen/pca/blob/main/figures/paco_iris_pca_dim_3.png?raw=true" >
 </p>
 
 ## PCA vs. Feature Engineering (Features 2 and 3) as Graph
